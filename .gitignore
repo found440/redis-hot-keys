@@ -29,4 +29,4 @@ HELP.md
 .vscode/
 
 ## 配置密码相关
-src/main/resources/application.properties
+application.properties
